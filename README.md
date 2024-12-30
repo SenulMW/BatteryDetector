@@ -8,11 +8,8 @@
 - **Charging Status**: Determines whether the device is currently being charged.
 - **Low Battery Warning**: Prompts the user to charge their device when the battery falls below a specified threshold.
 
-## Installation
+### Languages Used
 
-To install **BatteryDetector** on your local machine, follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/BatteryDetector.git
-
+- **HTML**
+- **CSS**
+- **JS**
