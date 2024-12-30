@@ -14,4 +14,3 @@
 - **CSS**
 - **JS**
 
-![Battery Screenshot](images/IMG_6892.jpeg)
